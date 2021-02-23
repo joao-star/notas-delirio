@@ -1,0 +1,5 @@
+Notas de atualização 23/02/2021:
+Foram corrigidos alguns bug de atualização.
+
+Notas de atualização 22/02/2021:
+Foi introduzido o sistema de linguagens múltiplos. Por enquanto somente as línguas português e inglês disponíveis!
